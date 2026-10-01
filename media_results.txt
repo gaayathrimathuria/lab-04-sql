@@ -1,0 +1,10 @@
+username	email	caption	likes	post_date
+gaayu3	gaayathrimathuria@example.com	Hello world! Learning SQL.	15	2024-07-01 15:53:00
+gaayu3	gaayathrimathuria@example.com	This is harder than I thought.	13	2024-07-01 20:50:00
+gaayu3	gaayathrimathuria@example.com	Can someone help me find a good SQL tutorial?	17	2024-07-02 00:23:00
+profsiller	ksiller@example.com	The student that made this needs to retake my class.	18	2025-09-01 11:00:00
+therealtj	tjefferson@example.com	We hold these truths to be self evident.	536	1776-07-04 09:00:00
+gaayu3	gaayathrimathuria@example.com	I finally figured it out!	20	2025-07-02 09:14:00
+notgithub	octocat@example.com	Sometimes I feel like the world relies on me too much.	871	2025-01-01 13:52:00
+santaclaus	stnicholas@example.com	Merry Christmas! Ho ho ho.	1225	2025-12-25 12:30:00
+gaayu3	gaayathrimathuria@example.com	How come I never go viral?	11	2026-09-30 21:02:00

@@ -1,0 +1,201 @@
+id,group,location,mbi,treatment,price
+1,Chronic Illness,GREEN BAY,1VK7XJ2PG80,Ibuprofen,3.29
+2,No Chronic Illness,MARION,2XP5EA6KW23,"Avobenzone, Octinoxate, Octisalate, Oxybenzone",39.99
+3,Chronic Illness,ALBANY,1G75JK7XD71,Sildenafil,49.99
+4,No Chronic Illness,WINDSOR,6TU0AY3NN14,QUETIAPINE FUMARATE,1.99
+5,Chronic Illness,EUCLID,3QN5DN4DV46,Menthol,1.29
+6,Chronic Illness,WIGGINS,7QQ2YA8DV28,artemisia vulgaris pollen,2.99
+7,No Chronic Illness,,4DX8Q38EG35,simvastatin,3.29
+8,Chronic Illness,VALLEY CITY,2YX1Q70RH36,Labetalol Hydrochloride,129.99
+9,Chronic Illness,SPRINGFIELD,1JD8TC8FK14,Salicylic Acid,3.99
+10,Chronic Illness,DETROIT,1P52XD1FR29,"Uricum acidum, Benzoicum acidum, Berber. vulg., Bryonia, Cantharis, Carduus benedictus, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Dioscorea, Dolichos, Iris versicolor, Juniperus com., Nux vom.,Ptelea,Taraxacum, Carduus mar., Cynara scolymus, Solidago,Taraxacum",59.99
+11,No Chronic Illness,OROVILLE,6GQ5JH2JV44,TRISODIUM CITRATE DIHYDRATE,99.99
+12,Chronic Illness,ATLANTA,5HP2E27DV37,Permethrin,15.99
+13,Chronic Illness,LA CROSSE,8GW6TV5GN01,LEAD,2.99
+14,No Chronic Illness,,2XT4N58MM70,Air,24.99
+15,No Chronic Illness,DOWNEY,9G81U22ET48,ALCOHOL,69.99
+16,Chronic Illness,,3UJ9A47MP52,NOT APPLICABLE,49.99
+17,Chronic Illness,KALAMAZOO,2KJ8YD0JP45,Titanium dioxide,4.79
+18,No Chronic Illness,CLEVELAND,3H79XA3MX33,Promethazine Hydrochloride,349.99
+19,Chronic Illness,,5GK7NY7YR38,Cetylpyridinium chloride,19.99
+20,No Chronic Illness,CHICAGO,7NH9E80KQ28,chlorhexidine gluconate and isopropyl alcohol,59.99
+21,Chronic Illness,BELLEFONTAINE,2KC8JW7WU85,Atenolol,24.99
+22,Chronic Illness,SALISBURY,9KX9PE9PJ26,Quetiapine Fumarate,4.99
+23,No Chronic Illness,TALLASSEE,8DM7DR2AD14,metformin hydrochloride,4.89
+24,No Chronic Illness,TEMPERANCE,2YD4QA7RE01,Lidocaine Hydrochloride,199.99
+25,Chronic Illness,FORT CAMPBELL,6U74J98UP60,Oak Virginia Live,19.99
+26,No Chronic Illness,DALLAS,9EM3R06EF02,Diltiazem Hydrochloride,4.99
+27,Chronic Illness,BARROW,1DJ5N03GR17,TOPIRAMATE,15.99
+28,No Chronic Illness,EPHRATA,7X11UA1NE49,"Aethusa cynapium, Calcarea carbonica, Cucurbita pepo, semen, Gambogia, Histaminum hydrochloricum, Hydrastis canadensis, Lycopodium clavatum, Natrum carbonicum, Nitricum acidum, Nux vomica, Ovi gallinae pellicula, Phosphorus, Pulsatilla, Sulphur",7.99
+29,No Chronic Illness,SAN ANGELO,6Q63F48EW68,trichothecium roseum and passalora fulva and cochliobolus spicifer and myrothecium verrucaria and trichophyton schoenleinii and mycogone nigra and neurospora crassa and khuskia oryzae and paecilomyces,5.49
+30,No Chronic Illness,RALEIGH,4WK8QX8WU24,Potassium Chloride,5.99
+31,Chronic Illness,GRAPEVINE,6ME1Y54YC84,Nystatin and Triamcinolone Acetonide,1.79
+32,Chronic Illness,CHARLOTTE,3KQ4PJ8MY69,Ibuprofen,2.49
+33,Chronic Illness,FALLS CHURCH,3AM7VF5NP34,CALCIUM POLYCARBOPHIL,2.49
+34,Chronic Illness,,4AR5FN2KX67,"Avobenzone 2.5%, Octinoxate 6%, Oxybenzone 3%",14.99
+35,Chronic Illness,,8MH5D14VY05,Dimethicone,29.99
+36,Chronic Illness,PASADENA,3WP4PG0WN02,Meperidine Hydrochloride,4.49
+37,Chronic Illness,HIGH POINT,2P82CM9JF52,Nicotine polacrilex,49.99
+38,Chronic Illness,GRUNDY CENTER,2EK6JA7MN79,titanium dioxide and zinc oxide,44.99
+39,No Chronic Illness,TOMAH,8TX1J36XA16,"Eucalyptol , Menthol , Methyl Salicylate, Thymol",9.99
+40,No Chronic Illness,NEPTUNE CITY,8WA8Q67CJ21,TITANIUM DIOXIDE,5.79
+41,No Chronic Illness,SPOKANE,1UQ6Q37JK18,"multi vitamin/mineral supplement with ascorbic acid, niacin, pyridoxine, pantothenic acid, folic acid, riboflavin, thiamin, biotin, cobalamin and zinc.",12.99
+42,Chronic Illness,SAINT PAUL,5YT2PT3KM96,YTTRIUM IODIDE,6.49
+43,Chronic Illness,KNOXVILLE,9FW8NT4PM37,Phentermine Hydrochloride,3.99
+44,No Chronic Illness,SPENCER,8XC9T70CE33,Menthol,3.49
+45,No Chronic Illness,NEW YORK,5FN2VK6WH02,Aminophylline Dihydrate,39.99
+46,Chronic Illness,TUPELO,8V17QY9PK19,PANTOPRAZOLE SODIUM,59.99
+47,No Chronic Illness,HERSHEY,4E27NV4XC02,Duloxetine Hydrochloride,2.29
+48,No Chronic Illness,MADISON,6NY0P16YP65,Metformin Hydrochloride,34.99
+49,Chronic Illness,NEWCASTLE,6XE1QC3RH40,dextromethorphan polistirex,29.99
+50,No Chronic Illness,,7PG3JX6AK52,pioglitazone hydrochloride,59.99
+51,Chronic Illness,SENECA,7TX8C37HE62,Potassium Chloride,99.99
+52,Chronic Illness,GREENVILLE,3VE4JR0YA57,Loperamide HCl,14.99
+53,Chronic Illness,KERRVILLE,,"Adrenalinum, Adrenocorticotrophin, Agrimonia eupatoria, flos, Anacardium orientale, Antimonium crudum, Calcarea carbonica, Castanea sativa, flos, Cortisone aceticum, Fucus vesiculosus, Hypothalamus, Kali bichromicum, Oleander, Pituitarum posterium, Sabadilla, Staphysagria, Thyroidinum",4.49
+54,Chronic Illness,HERSHEY,8TT9HC4XJ49,orlistat,4.29
+55,Chronic Illness,MACON,7Q94Q04CR92,Nicotine Polacrilex,299.99
+56,No Chronic Illness,BENTON,4K01A18JP18,HYDROCHLOROTHIAZIDE,3.59
+57,Chronic Illness,HAYS,6JN7T57QJ31,Phytonadione,1.89
+58,Chronic Illness,JACKSONVILLE,7NQ5MJ3PM32,CAPTORPIL,3.99
+59,Chronic Illness,ERIE,6Q78N05VM07,Hypromellose,49.99
+60,No Chronic Illness,MELROSE PARK,8TU0J08DV50,Lidicaine,4.99
+61,No Chronic Illness,JERSEY CITY,2WD3XJ2AR48,Diphenhydramine hydrochloride,9.99
+62,Chronic Illness,RIO GRANDE CITY,8GX8CY6TQ09,ARMODAFINIL,49.99
+63,Chronic Illness,MONROEVILLE,9R86UX6YK50,Olanzapine,8.49
+64,Chronic Illness,NEW WINDSOR,4JA8T84CW43,Ibuprofen,34.99
+65,No Chronic Illness,DALLAS,7A60G37DG74,Hydromorphone HCl,2.79
+66,No Chronic Illness,MORGANTOWN,7R48JE5FJ63,"Acetaminophen, Aspirin, and Caffeine",4.49
+67,Chronic Illness,TUKWILA,7NX5K33HT90,Compressed Oxygen,3.29
+68,No Chronic Illness,PHOENIX,9EU6CE0YW73,Norethindrone and Ethinyl Estradiol,14.99
+69,No Chronic Illness,YORK,1UE8PK8KP20,Glipizide,5.99
+70,Chronic Illness,MEMPHIS,1P39DM6TD59,Benzocaine,1.79
+71,No Chronic Illness,SEATTLE,3QA5P86NE27,doxepin hydrochloride,2.29
+72,No Chronic Illness,FORT IRWIN,5WF8NT8MW17,terbinafine hydrochloride,49.99
+73,Chronic Illness,CHICAGO,6RU1V77VD03,Cilostazol,29.99
+74,No Chronic Illness,BRIDGEPORT,6W28CP4NQ57,Phenobarbital,4.99
+75,Chronic Illness,DU BOIS,8XY2K68EY43,Salicylic Acid,4.99
+76,No Chronic Illness,KENNEWICK,8CG2JE0DA99,Lambs Quarters,3.59
+77,Chronic Illness,BAKERSFIELD,2AN0AR9VY68,Treatment Set TS346752,29.99
+78,No Chronic Illness,,1D92HW7UU78,Oxycodone and Acetaminophen,4.99
+79,No Chronic Illness,MIDDLEBURY,3QT1W20GF03,Acetaminophen,14.99
+80,No Chronic Illness,BUCYRUS,6KJ4MC2CR05,Salmonella,29.99
+81,Chronic Illness,,1RR1MC3HA84,OCTINOXATE,2.29
+82,Chronic Illness,PEORIA,5JM4A44CP19,"TITANIUM DIOXIDE, OCTINOXATE",39.99
+83,No Chronic Illness,SAINT LOUIS,4KT8RQ5RA15,METHYLPHENIDATE HYDROCHLORIDE,35.99
+84,No Chronic Illness,BRAINTREE,7HE4R08QD77,Ziprasidone HCl,28.99
+85,No Chronic Illness,MEMPHIS,6PM0QY8QN86,Allantoin,69.99
+86,Chronic Illness,SCOTTSBLUFF,1YG1PY6YU76,BAPTISIA TINCTORIA,3.79
+87,,DES MOINES,8R30QT0CF57,"DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE",24.99
+88,Chronic Illness,HEMET,5CG9RV3AM73,HYOSCYAMINE SULFATE,49.99
+89,Chronic Illness,PLANO,8NC9TW8GH16,sumatriptan succinate,2.39
+90,Chronic Illness,ANACONDA,4NM3HK3FX18,FLURBIPROFEN,2.79
+91,No Chronic Illness,BALTIMORE,9FP8M46GF41,penicillin g procaine,1.49
+92,No Chronic Illness,PHOENIX,3Q65X50XP30,Paricalcitol,39.99
+93,Chronic Illness,GRAHAM,6ER6AT4HN48,Ziprasidone Hydrochloride,34.99
+94,No Chronic Illness,DAYTON,6TP2P91CA87,aspergillus ruber,3.49
+95,Chronic Illness,SWAINSBORO,9GT6HH5UQ93,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE",24.99
+96,,FORT WAYNE,,buspirone hydrochloride,9.99
+97,Chronic Illness,MIAMI,5F83CQ3CU91,Alcohol,5.99
+98,No Chronic Illness,CLARENDON,5P04PJ8ED89,ALCOHOL,29.99
+99,No Chronic Illness,GUYMON,7J59K71JC58,Neomycin and Polymyxin B Sulfates and Dexamethasone,3.29
+100,Chronic Illness,SPRINGFIELD,8E23RA2EQ37,Western White Pine,59.99
+101,Chronic Illness,ONEONTA,3P51VJ1NA23,"Camphor,Menthol,Methyl Salicylate",19.99
+102,,MIAMI,8KY2U51TJ57,"Oxygen, Carbon Dioxide",0.75
+103,Chronic Illness,SCOTTSBLUFF,7DR2XC8UU22,salicylic acid,11.99
+104,No Chronic Illness,MIAMI,4RW6KP4QE98,amlodipine besylate,29.99
+105,No Chronic Illness,INDIANAPOLIS,7EV6WK8MR05,AGARICUS PANTHERINUS,3.49
+106,Chronic Illness,WARREN,,DIMETHICONE,22.99
+107,Chronic Illness,CUSHING,4RD0YA5ET97,HEPARIN SODIUM,15.99
+108,No Chronic Illness,PHILADELPHIA,3P29E75RK34,Triclosan,2.99
+109,Chronic Illness,BALDWIN,2TF8MT4GK13,Lamotrigine,2.99
+110,No Chronic Illness,DE QUEEN,6M93HV2UT68,Enalapril Maleate,3.99
+111,Chronic Illness,DUNEDIN,9G97U27QJ68,"OCTINOXATE, TITANIUM DIOXIDE",2.99
+112,No Chronic Illness,LIVONIA,2W75RU8DQ18,Tamsulosin hydrochloride,29.99
+113,Chronic Illness,LANGHORNE,4RH6W92GP39,Diphenhydramine HCl,1.89
+114,Chronic Illness,DETROIT,4W06E48ER68,Lorazepam,59.99
+115,Chronic Illness,PITTSBURGH,1HK6P77MW17,"Avobenzone, Octinoxate, Octisalate, and Oxybenzone",5.99
+116,Chronic Illness,ATKINSON,3N60RH1TP71,Verapamil Hydrochloride,5.99
+117,Chronic Illness,MIAMI,6R33P38MV18,sodium chloride,49.99
+118,No Chronic Illness,FRANKLIN,2KP4NH1VQ02,Aspirin,99.99
+119,Chronic Illness,ENNIS,7RQ8R22QM55,Doxylamine succinate,2.19
+120,Chronic Illness,HATTIESBURG,6D08YY0NY86,PYRITHIONE ZINC,24.99
+121,No Chronic Illness,CHICO,3J77W48YY97,English Walnut,8.99
+122,Chronic Illness,GANADO,2QC5KX6DY40,TITANIUM DIOXIDE,3.99
+123,Chronic Illness,MIAMI,6UP2NF8QD04,Lamotrigine,29.99
+124,No Chronic Illness,WHEELING,9GM1CM8FY82,Clomipramine Hydrochloride,8.49
+125,Chronic Illness,HILO,9Q18UQ4PT43,Fexofenadine hydrochloride,2.49
+126,No Chronic Illness,FT WORTH,3AN8GQ1CU65,Clindamycin in 5 Percent Dextrose,4.5
+127,Chronic Illness,,9V68DW2GN50,milnacipran hydrochloride,24.99
+128,No Chronic Illness,ARLINGTON HEIGHTS,8M84RR4PP58,Cyclobenzaprine Hydrochloride,49.99
+129,Chronic Illness,OCALA,8AD2HT5UR56,"bacitracin, neomycin, polymyxin B",39.99
+130,No Chronic Illness,BECKLEY,6KA3MW5RN20,clonazepam,19.99
+131,Chronic Illness,LOS ANGELES,8CK8GQ2HR06,Medroxyprogesterone Acetate,89.99
+132,Chronic Illness,BOISE,8FQ9C38KQ31,Arnica Aurum Equisetum,6.99
+133,No Chronic Illness,URBANA,3AW1RM0YU29,Spiny Pigweed,5.99
+134,No Chronic Illness,PIKEVILLE,5HC7EK7PH02,California Valley White Oak,2.79
+135,No Chronic Illness,MIAMI,5VM0PA6DY88,"Acetaminophen, Chlorpheniramine maleate and Dextromethorphan HBr",5.99
+136,No Chronic Illness,STAPLES,3H97JA8AJ71,Ibuprofen,3.99
+137,,WASHINGTON TERRACE,3HQ1Y04DY15,"Dextromethorphan Hydrobromide, Guaifenesin and Pseudoephedrine Hydrochloride",19.99
+138,No Chronic Illness,,2P91M28EC55,Water,59.99
+139,No Chronic Illness,ERIE,,Brevibloc,2.99
+140,No Chronic Illness,HOMER,6HT7HA1AH83,"TITANIUM DIOXIDE, ZINC OXIDE",2.49
+141,Chronic Illness,BIRMINGHAM,4NU3HC4CM36,"Adrenocorticotrophin, Agnus castus, Baryta carbonica, Calcarea carbonica, Iodium, Lac caninum, Natrum muriaticum, Phosphoricum acidum, Sepia, Thyroidinum suis,",2.79
+142,No Chronic Illness,SOMERSET,8GG4GA3JC82,"Arsenicum alb., clacarea iodata, Carbo animalis, Conium, Graphites, Hydrastis, Iodium, Kreosotum, Lachesis, Phosphorus, Sabina, Secale, Sepia, Silicea, Thlaspi, Thuja occ., Thyroidinum, Trillium pendulum, Ustilago maidis",7.99
+143,No Chronic Illness,TEMPERANCE,8XA5WR1HP76,"SODIUM PHOSPHATE, DIBASIC ANHYDROUS",19.99
+144,Chronic Illness,MIRAMAR,1GA4JT9DN89,"Cetirizine HCl, Pseudoephedrine HCl",19.99
+145,Chronic Illness,,5ED7UJ4MJ16,Levothyroxine Sodium,2.49
+146,No Chronic Illness,GREENACRES,7CH8GA9FX21,"famotidine, calcium carbonate and magnesium hydroxide",2.99
+147,Chronic Illness,INDIANAPOLIS,2CM6UG5YC20,Olanzapine,8.99
+148,Chronic Illness,,9YQ8YD6AU27,"SODIUM PHOSPHATE, DIBASIC, ANHYDROUS",19.99
+149,No Chronic Illness,APO,6C51X03QC13,ERTACZO,8.99
+150,Chronic Illness,NEW YORK,1KD4XH9JA61,Lorazepam,34.99
+151,No Chronic Illness,PITTSBURGH,7FU1G01JD48,amoxicillin and clavulanate potassium,34.99
+152,No Chronic Illness,FORT SMITH,5P21WW6AH43,Titanium Dioxide and Octinoxate,1.39
+153,No Chronic Illness,BAKERSFIELD,8F66ME1RJ39,Titanium Dioxide,14.99
+154,No Chronic Illness,UTICA,,Triclosan,1.89
+155,No Chronic Illness,MARION,2WF6JH9PR37,potato,4.29
+156,No Chronic Illness,UNION,4FH4VE6UH33,Ibuprofen,9.99
+157,No Chronic Illness,DALLAS,4P68Y32TT47,Carvedilol,89.99
+158,Chronic Illness,LOWVILLE,7YV3NM9FC52,NAFCILLIN SODIUM,34.99
+159,No Chronic Illness,BREMERTON,6K38RU4HG31,"OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE",109.99
+160,No Chronic Illness,BOSSIER CITY,5YM6DQ1UX66,Rescue,39.99
+161,Chronic Illness,GUNNISON,4V63DG9NG72,TOLNAFTATE,39.99
+162,Chronic Illness,FORT WORTH,7G49WJ0HK59,"Octinoxate, Titanium Dioxide",24.99
+163,Chronic Illness,MESQUITE,9T29Q26UE36,"Geranium robertianum, Nasturtium aquaticum, Aloe socotrina, Juglans regia, Myosotis arvensis, Scrophularia nodosa, Teucrium scorodonia, Apis mellifica, Equisetum hyemale, Fumaria officinalis,",5.99
+164,No Chronic Illness,NEWPORT,6CQ9FP4KC55,Titanium Dioxide and Zinc Oxide,4.99
+165,No Chronic Illness,CONWAY,7XN4PJ5WC24,Sodium Monofluorophosphate,18.99
+166,Chronic Illness,BALLINGER,,Octinoxate and Oxybenzone,22.99
+167,Chronic Illness,WHEELING,,Bisacodyl,22.99
+168,Chronic Illness,ATLANTA,1W44WP9MX53,Ranitidine,29.99
+169,No Chronic Illness,BIRMINGHAM,1DA7D35MQ61,Vitis Stibium,29.99
+170,Chronic Illness,PORT ARTHUR,2K01NU7ED96,Menthol,10.99
+171,No Chronic Illness,YPSILANTI,1NX0D55RC71,Yellow Pine,29.99
+172,No Chronic Illness,LOUISVILLE,3G92G61JE64,CALCIUM CARBONATE,49.99
+173,Chronic Illness,SAINT FRANCISVILLE,1MV1CT0GQ24,Doxazosin,29.99
+174,Chronic Illness,LAKE ALFRED,4R67GW1VJ25,propafenone hydrochloride,39.99
+175,No Chronic Illness,NOBLESVILLE,7YV5K08JC76,Lisinopril,1.99
+176,Chronic Illness,GARFIELD HTS,2WV2HV6HF43,Enoxaparin sodium,8.99
+177,Chronic Illness,,5H65ED5GA67,Nortriptyline Hydrochloride,7.99
+178,Chronic Illness,LAS VEGAS,3G55XF0PM26,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",59.99
+179,Chronic Illness,EL CAMPO,2T65YW9WC65,BORIC ACID,3.29
+180,No Chronic Illness,PORTLAND,5QH6P62DV74,Chlordiazepoxide Hydrochloride,29.99
+181,No Chronic Illness,CASS CITY,7K36UK1DT94,DIPHENHYDRAMINE HYDROCHLORIDE,12.99
+182,No Chronic Illness,CONROE,6C28J41QC56,Codfish,15.99
+183,No Chronic Illness,MELVILLE,6EX8TG8RN98,RISPERIDONE,5.49
+184,No Chronic Illness,SPRINGFIELD,8KF2HK4TY40,PECTIN,4.29
+185,No Chronic Illness,BRONX,1N62V41RG55,"OCTINOXATE, TITANIUM DIOXIDE",99.99
+186,No Chronic Illness,KALAMAZOO,6EU3XX5FR61,Bismuth Subsalicylate,4.09
+187,No Chronic Illness,,7JV3A51AV71,Losartan Potassium and Hydrochlorothiazide,4.99
+188,No Chronic Illness,YARDLEY,1H90UA5XM34,"Cinnamic Acid, Phloridzinum, ATP, Argentum Nitricum, Beet Sugar, D-Ribose, Fructose, Dextrose, Grape Sugar (Syrup), Lycopodium Clavatum,",10.99
+189,Chronic Illness,MURRAY,4F65JC3AD87,Metformin Hydrochloride,24.99
+190,Chronic Illness,,2YC4N59VU97,isotretinoin,2.99
+191,Chronic Illness,BRENTWOOD,6G36NQ3QH76,"Echinacea,Baptisia tinctoria, Hydrastis canadensis, Myrrha, Nasturtium aquaticum, Phytolacca decandra, Trigonella foenum-graecum, Texas Tree, Texas Weed, Texas Grass",3.29
+192,Chronic Illness,STEVENS POINT,6VR0T92HD17,Prednisone,14.99
+193,Chronic Illness,ROCHESTER HILLS,4JT5E91UQ37,"SODIUM SULFACETAMIDE, SULFUR",24.99
+194,Chronic Illness,DUMAS,6V00JK6EQ43,"Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil",3.99
+195,No Chronic Illness,CHARLOTTE,6NT3T28YT30,Rice Grain,79.99
+196,Chronic Illness,NEW YORK,2UC5Q66HF09,"Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate",1.99
+197,No Chronic Illness,NEW YORK,2R61GE7KX18,Aspirin,29.99
+198,Chronic Illness,MONTICELLO,9R20QU9JG20,Minocycline hydrochloride,39.99
+199,No Chronic Illness,PLAINFIELD,7V44FC6DJ60,benzocaine,5.99
+200,Chronic Illness,LAKE VILLAGE,8V22FF0KF24,SALICYLIC ACID,6.89
